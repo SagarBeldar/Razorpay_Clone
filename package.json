@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sagarbeldar.github.io/Razorpay_Clone/",
   "name": "razorpay-clone",
   "version": "1.0.0",
   "description": "",
@@ -15,5 +16,8 @@
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
   }
 }
